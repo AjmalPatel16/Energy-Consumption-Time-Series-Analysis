@@ -1,6 +1,3 @@
-Here’s a more visually appealing version of your **Energy Consumption Time Series Analysis** project description, with structured formatting and emphasis on key sections:
-
----
 
 # 🔋 **Energy Consumption Time Series Analysis**
 
