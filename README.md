@@ -1,4 +1,5 @@
-🔋 Energy Consumption Time Series Analysis
+**🔋 Energy Consumption Time Series Analysis**
+
 Project Overview
 The project focuses on analyzing historical energy consumption data to uncover trends, seasonal patterns, and forecast future consumption. The goal is to provide stakeholders with insights that support resource planning and energy optimization decisions.
 
